@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.author             = { "author" => "veniveci@aliyun.com" }
   s.platform     = :ios, "7.0"
   s.source       = { :git => "https://github.com/AlexInt/NativeToastLibrary.git", :tag => "master" }
-  s.source_files  = "RNNativeToastLibrary/**/*.{h,m}"
+  s.source_files  = "RNNativeToastLibrary/ios/**/*.{h,m}"
   s.requires_arc = true
 
 
