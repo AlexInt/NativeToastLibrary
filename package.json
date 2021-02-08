@@ -1,6 +1,6 @@
 
 {
-  "name": "react-native-native-toast-library-jwl",
+  "name": "react-native-native-toast-library-king",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,6 +12,14 @@
   ],
   "author": "",
   "license": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexInt/NativeToastLibrary.git"
+  },
+  "homepage": "https://github.com/AlexInt/NativeToastLibrary",
+  "bugs": {
+    "url": "https://github.com/AlexInt/NativeToastLibrary/issues"
+  },
   "devDependencies": {
     "react-native": "0.41.2"
   },

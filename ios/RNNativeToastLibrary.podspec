@@ -6,12 +6,12 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   RNNativeToastLibrary
                    DESC
-  s.homepage     = ""
+  s.homepage     = "https://github.com/AlexInt/NativeToastLibrary"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
-  s.author             = { "author" => "author@domain.cn" }
+  s.author             = { "author" => "veniveci@aliyun.com" }
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/author/RNNativeToastLibrary.git", :tag => "master" }
+  s.source       = { :git => "https://github.com/AlexInt/NativeToastLibrary.git", :tag => "master" }
   s.source_files  = "RNNativeToastLibrary/**/*.{h,m}"
   s.requires_arc = true
 
